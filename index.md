@@ -23,7 +23,7 @@ I may upload some code snippet here.
         data-mapping="pathname"
         data-reactions-enabled="1"
         data-emit-metadata="0"
-        data-theme="dark_dimmed"
+        data-theme="transparent_dark"
         data-lang="zh-CN"
         crossorigin="anonymous"
         async>
