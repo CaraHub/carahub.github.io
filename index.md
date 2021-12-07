@@ -15,16 +15,26 @@ I may upload some code snippet here.
 
 ....
 
-<script src="https://giscus.app/client.js"
-        data-repo="CaraHub/CaraHub"
-        data-repo-id="R_kgDOGXdnAg"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOGXdnAs4CALmz"
-        data-mapping="pathname"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>
+<style>
+button{
+    padding: 15px 24px;
+    transition: 0.2s;
+    background-color: #F2FCFA;
+    border:none;
+    box-shadow: 2px 2px 4px #bbbbbb;
+    border-radius: 5px;
+}
+button:hover{
+    padding: 15px 24px;
+    transition: 0.2s;
+    background-color: #DDF6F3;
+    border:none;
+    box-shadow: 1px 1px 2px #bbbbbb;
+    border-radius: 5px;
+}
+</style>
+<center>
+<button onclick="windows.open('example.com');">
+    test
+</button>
+</center>
