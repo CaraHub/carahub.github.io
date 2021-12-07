@@ -14,3 +14,17 @@ I may upload some code snippet here.
 ### Support or Contact
 
 ....
+
+<script src="https://giscus.app/client.js"
+        data-repo="CaraHub/CaraHub"
+        data-repo-id="R_kgDOGXdnAg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOGXdnAs4CALmz"
+        data-mapping="pathname"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-theme="light"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
